@@ -1,0 +1,2 @@
+# Todolist
+Vanilla JavaScript project
